@@ -32,8 +32,11 @@ utils::globalVariables(c("id", "resultat","res","geoid",
                          "geoLevelname",
                          "ktdata_zh",
                          "jaStimmenInProzent",
-                         "cor","cov","correlation",
-                         "text"#,"ktid"
+                         "cor","cov","correlation", 
+                         "text",
+                         #"ktid",
+                         "measure", "vogenr", "geometry",
+                         "bezkId", "stimmbeteiligungInProzent"
                          ))
 
 
